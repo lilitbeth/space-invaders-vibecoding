@@ -1,6 +1,3 @@
-# space-invaders-vibecoding
-Desarrollo de mini juego 2d con Python técnicas de vibecoding
-
 # Space Invaders - Vibecoding Edition
 **Actividad:** Vibecoding Guiado (Semana 2)  
 **Proyecto:** Desarrollo de Mini-Juego con IA como Copiloto  
