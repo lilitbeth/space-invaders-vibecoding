@@ -51,7 +51,7 @@ El proyecto fue construido utilizando la librería estándar gráfica de Python 
 
 ### Prompt 3: Depuración, Fluidez de Controles y UX
 * **Prompt exacto enviado a la IA:**
-  > *"Se detecto un problema: Si la tecla epaciadora se mantiene presionada debe ser  capaz de disparar en rafaga pero agrega un tiempo de enfriamiento de 300ms entre disparos para que no sea una rafaga inifnita"*
+  > *"Se detecto un problema: Si la tecla epaciadora se mantiene presionada debe ser  capaz de disparar en rafaga pero agrega un tiempo de enfriamiento de 300ms entre disparos para que no sea una rafaga infinita"*
 * **Qué se pidió:** Corrección de la respuesta de entrada del teclado.
 * **Por qué se ajustó:** La experiencia de usuario (*feel* de los controles) era deficiente con enlaces de eventos simples.
 
